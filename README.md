@@ -85,6 +85,9 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 * 3.2.1 DIAGRMA EN TINKERCAD
 
+* ![image](https://user-images.githubusercontent.com/116772918/202583605-3159abcd-244a-4265-a3ee-2fb97473425f.png)
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
