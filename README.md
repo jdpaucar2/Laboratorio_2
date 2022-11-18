@@ -93,7 +93,8 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 * 3.2.1 DIAGRMA EN TINKERCAD
 
 
-![image](https://user-images.githubusercontent.com/116772918/202603975-295e08fd-d6f4-44f3-ad83-fe70b8e96986.png)
+![image](https://user-images.githubusercontent.com/116772918/202615141-5bc715b3-48f7-47e1-9e97-116436cd02eb.png)
+
 
 ![image](https://user-images.githubusercontent.com/116772918/202605083-e20cbaaf-4701-4a1f-a9ff-67cef8ed7e1e.png)
 
@@ -110,8 +111,9 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 
 
-* 4.1 PRIMERA TABLA : Comaparacion de mediciones 
+* 4.1 PRIMERA TABLA  
 
+![image](https://user-images.githubusercontent.com/116772918/202615299-a0f757c2-40fc-4383-bcfd-7550943b8a35.png)
 
 
 
@@ -126,9 +128,7 @@ https://youtu.be/AJcRXzZgemI
 
 **6. CONCLUSIONES**
 
-En conclución los procesos realizados de manera práctica con el uso de el sistema Tinkerkad para el desarrollo de circuitos electrónicos permitieron el análisis de las
-cargas que atraviezan por el circuito construido de manera exacta, yasea en su medida por trayectorias o por nodos tal y como lo designa la Ley de Kirchhoff de
-Voltajes y Corrientes, en base a esta práctica pudimos explicar dichas leyes de manera exacta.
+En conclución al aplicar en un circuito de dos fuentes como el propuesto para experimentación pudimos determinar sus corrientes y relaciones por medio de las leyes de Kirchoff haiendo enfasis en los procesos de aanálisis de mallas sonde los valores teoricos tanto como los simulados demostraron ser muy similares ya que estos se trabajan en medios ideales donde las resistencias y tolerancias no afectan las cargas y corrientes, finalmente se expresan en las tablas para podert ver dichas diferencias.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
