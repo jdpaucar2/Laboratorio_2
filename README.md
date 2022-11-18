@@ -97,6 +97,13 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 ![image](https://user-images.githubusercontent.com/116772918/202605083-e20cbaaf-4701-4a1f-a9ff-67cef8ed7e1e.png)
 
+![image](https://user-images.githubusercontent.com/116772918/202614811-d14c20a9-e0e3-4e5a-8bad-1e2cc07a6976.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202614885-1ff5a5ad-a162-4107-a27d-a1f64ea74aeb.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202614944-5aaacd9f-06ca-4352-bd68-8c01ad42de76.png)
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
