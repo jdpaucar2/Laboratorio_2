@@ -123,7 +123,7 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 **5. VIDEO**
 
-https://youtu.be/AJcRXzZgemI
+https://youtu.be/J4v2i89ny_Q
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
